@@ -7,3 +7,7 @@
     1. key = a[i]
     2. key=lambda x: x[1]
     3. key=lambda x: (-x[1], x[0])
+
+## 풀이
+1. K 번째수 <>
+2. 가장 큰수 <>
