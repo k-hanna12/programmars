@@ -9,5 +9,5 @@
     3. key=lambda x: (-x[1], x[0])
 
 ## 풀이
-1. K 번째수 <>
-2. 가장 큰수 <>
+1. K 번째수 <https://github.com/k-hanna12/programmars/blob/main/%EC%A0%95%EB%A0%AC/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py>
+2. 가장 큰수 <https://github.com/k-hanna12/programmars/blob/main/%EC%A0%95%EB%A0%AC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py>
