@@ -14,4 +14,5 @@
     def solution(ls):
         return min(len(ls)/2, len(set(ls)))
    ```
-3. 
+3. [전화번호 목록](https://github.com/k-hanna12/programmars/blob/main/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)
+   > startswith() 사용으로 접두어 비교 가능
