@@ -2,7 +2,7 @@
 
 1. put()
 2. get()
-(3. getOrDefault() > java )
+3. getOrDefault() (> java )
   > 해당 key가 없는 상황 고려, 없다면 false 반환 (있다면 헤당 value 반환)
 4. set()
 ## 풀이
