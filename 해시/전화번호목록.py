@@ -13,7 +13,7 @@ def solution(phone_book):
 #해시기반 풀이 /앞에서부터 쪼개서 해당 문자가 hash 안에 있는지 확인
 def solution(phone_book):
 
-    phone_hash = set(phone_book)
+    phone_hash = set(phone_book)    #시간복잡도 고려하기 위해
 
     for i in phone_book:
         temp = ""
